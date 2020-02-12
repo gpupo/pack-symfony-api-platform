@@ -1,7 +1,7 @@
 {
-    "name": "gpupo/pack-symfony-common",
+    "name": "gpupo/pack-symfony-api-platform",
     "description": "Pacote de componentes de uso comum em projetos que rodam Symfony Framework",
-    "homepage": "https://opensource.gpupo.com/pack-symfony-common/",
+    "homepage": "https://opensource.gpupo.com/pack-symfony-api-platform/",
     "authors": [
         {
             "name": "Gilmar Pupo",
@@ -67,8 +67,8 @@
     },
     "autoload": {
         "psr-4": {
-            "Gpupo\\PackSymfonyCommon\\": "src",
-            "Gpupo\\PackSymfonyCommon\\Tests\\": "tests"
+            "Gpupo\\PackSymfonyApiPlatform\\": "src",
+            "Gpupo\\PackSymfonyApiPlatform\\Tests\\": "tests"
         }
     },
     "require-dev": {

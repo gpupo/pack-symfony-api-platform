@@ -3,7 +3,7 @@
 use Gpupo\CommonDevExtra\CsConfigurator;
 
 $packageInfo = [
-    'project' => 'gpupo/pack-symfony-common',
+    'project' => 'gpupo/pack-symfony-api-platform',
     'author' => 'Gilmar Pupo <contact@gpupo.com>',
     'url' => 'https://opensource.gpupo.com/',
 ];

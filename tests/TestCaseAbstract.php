@@ -3,7 +3,7 @@
 declare(strict_types=1);
 
 /*
- * This file is part of gpupo/pack-symfony-common
+ * This file is part of gpupo/pack-symfony-api-platform
  * Created by Gilmar Pupo <contact@gpupo.com>
  * For the information of copyright and license you should read the file
  * LICENSE which is distributed with this source code.
@@ -15,9 +15,9 @@ declare(strict_types=1);
  *
  */
 
-namespace Gpupo\PackSymfonyCommon\Tests;
+namespace Gpupo\PackSymfonyApiPlatform\Tests;
 
-use Gpupo\PackSymfonyCommon\Traits\TestCaseTrait;
+use Gpupo\PackSymfonyApiPlatform\Traits\TestCaseTrait;
 use PHPUnit\Framework\TestCase;
 
 abstract class TestCaseAbstract extends TestCase
